@@ -1,0 +1,2 @@
+# pythonPracticas
+Basic python scripts
